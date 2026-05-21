@@ -5,14 +5,14 @@
 }
 @font-face {
     font-family: "Inter";
-    src: url("Inter-VariableFont_opsz\,wght.woff2") format("woff2");
+    src: url("Interfont.woff2") format("woff2");
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: "Cinzel";
-    src: url("Cinzel-VariableFont_wght.woff2") format("woff2");
+    src: url("Cinzelfont.woff2") format("woff2");
     font-weight: 400 900;
     font-style: normal;
     font-display: swap;
