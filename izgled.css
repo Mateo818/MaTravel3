@@ -586,6 +586,10 @@ video{
 .casablanca{
     background-image: url("slike/casablanca/casablanca.webp");
 }
+.casablanca:hover{
+    background-image: url("slike/casablanca/casablanca2.webp");
+    transition: 0.5s ease-in-out;
+}
 .venecija{
     background-image: url("slike/venecija/venecija.webp");
 }
